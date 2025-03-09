@@ -1,9 +1,18 @@
-# React + Vite
+This project is a React-based application designed to display career-related information such as career path details, financial goals, investment strategies, and advice. The project also allows users to download a PDF of their career plan.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
+- Displays career path information, including job title, salary expectation, and growth opportunities.
+- Allows users to view and download a detailed PDF of their career plan.
+- Handles financial goal planning with sections for savings targets, investment strategies, and advice.
 
-Currently, two official plugins are available:
+Live Demo :
+The application is deployed on Vercel, and you can view the live version of the project at:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-[Team10_Presentation.pptx](https://github.com/user-attachments/files/19149651/Team10_Presentation.pptx)
+**[Live Demo Link](https://ai-career-planner.vercel.app/)**
+
+Presentation :
+
+A detailed presentation describing the features, use cases, and technical aspects of the project is available. You can download the presentation from the link below:
+
+**[Download Presentation](https://github.com/user-attachments/files/19149651/Team10_Presentation.pptx)
+
